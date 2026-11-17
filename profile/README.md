@@ -19,7 +19,7 @@ Els repositoris poden incloure, entre d'altres:
 
 A continuació trobareu els repositoris disponibles:
 
-- **[disseny_gastronom](https://github.com/EPSEVG-INEP/disseny_gastronom)** — Exemple d'implementació en C++17 del cas pràctic *Exquisitèsies gastronòmiques*, utilitzat per il·lustrar els conceptes de disseny arquitectònic de sistemes de programari.
+- **[disseny_gastronom](https://github.com/EPSEVG-INEP/disseny_gastronom)** — Exemple d'implementació en C++17 del cas pràctic *Exquisitèsies gastronòmiques*, utilitzat per il·lustrar els conceptes de disseny de sistemes de programari.
 
 A mesura que es desenvolupin nous materials, s'aniran incorporant nous repositoris a aquesta organització.
 
